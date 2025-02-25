@@ -1,6 +1,6 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://weswhelan.netlify.app"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Wes whelan"
 theme: hugo-profile
 
 outputs:
@@ -30,11 +30,11 @@ markup:
 
 Menus:
   main:
-    - identifier: blog
-      name: Blog
-      title: Blog posts
-      url: /blogs
-      weight: 1
+    #- identifier: blog
+    #  name: Blog
+     # title: Blog posts
+     # url: /blogs
+      #weight: 1
     - identifier: gallery
       name: Gallery
       title: Blog posts
@@ -59,8 +59,8 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Hugo Profile"
-  description: Text about my cool site
+  title: "Wes Whelan"
+  description: "A dog's best friend"
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
 
