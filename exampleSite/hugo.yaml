@@ -137,7 +137,7 @@ params:
     title: "Wes Whelan"
     subtitle: "A dog's best friend"
     content: "Pet sitter and walker based in West LA"
-    image: "FIRST PIC"
+    #image: /images/
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -161,7 +161,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "SECOND PIC"
+   # image: /images/
     content: |-
       I moved to Los Angeles at the beginning of 2022 from Kentucky. 
       I grew up on a horse farm surrounded by all kinds of animals. Naturally, I have been an animal lover my whole life, 
