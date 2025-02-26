@@ -152,7 +152,7 @@ params:
     title: "Wes Whelan"
     subtitle: "A dog's best friend"
     content: "And your new favorite singer"#Singer/songwriter with a love for animals
-    #image: /images/
+    image: /images/Alfred.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -176,7 +176,7 @@ params:
   about:
     enable: true
     title: "About Me"
-   # image: /images/
+    image: /images/charlie hike.jpg
     content: |-
       Hello, my name is Wes. I grew up on a horse farm surrounded by all kinds of animals. Naturally,
       I have a deep love for animals and sincerely enjoy helping out. I have been dog-walking and pet sitting
