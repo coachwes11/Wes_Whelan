@@ -89,13 +89,22 @@ params:
     fontWeight: 400 # default: 400
     lineHeight: 1.5 # default: 1.5
     textAlign: left # default: left
-    
+
+  #NAVY:
   color:
-    textColor: "#161616"
-    secondaryTextColor: "#311D3F"
-    backgroundColor: "#c5e8fc" 
-    primaryColor: "#275e40"
-    secondaryColor: "#2FDD92"
+    textColor: "#F5F5F5"
+    secondaryTextColor: "#F5F5F5"
+    backgroundColor: "#313552"
+    primaryColor: "#F1E0AC"
+    secondaryColor: "#30475E"
+    #color testing:
+    #LIGHT BLUE AND GREEN:
+  # color:
+  #   textColor: "#161616"
+  #   secondaryTextColor: "#311D3F"
+  #   backgroundColor: "#c5e8fc" 
+  #   primaryColor: "#275e40"
+  #   secondaryColor: "#2FDD92"
   # color preference
   # When using hex codes for colors, quotations must be used along with the # sign
   # color:
