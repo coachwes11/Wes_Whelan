@@ -136,7 +136,7 @@ params:
     #intro: "Hi, my name is"
     title: "Wes Whelan"
     subtitle: "A dog's best friend"
-    content: "Pet sitter and walker based in West LA"
+    content: "Singer/songwriter with a love for animals"
     #image: /images/
     bottomImage:
       enable: true
@@ -163,9 +163,10 @@ params:
     title: "About Me"
    # image: /images/
     content: |-
-      I moved to Los Angeles at the beginning of 2022 from Kentucky. 
-      I grew up on a horse farm surrounded by all kinds of animals. Naturally, I have been an animal lover my whole life, 
-      and I began watching and walking dogs consistently in Los Angeles in 2024.
+      I moved to Los Angeles at the beginning of 2022 from Kentucky to write and sing songs. 
+      I grew up on a horse farm surrounded by all kinds of animals. I helped take care of the farm
+      animals and would occasionally pet sit for family friends in the area. I currently walk and pet sit
+      for several families in West LA, and I sincerely enjoy it.
     #skills:
       #enable: true
       #title: "What do I offer?"
