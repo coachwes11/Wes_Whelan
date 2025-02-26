@@ -233,10 +233,25 @@ params:
       #   date: "150/day" #price
       #   # info:
       #   #   enable: false
-      - job: "Dog sitting"
+      - job: "Overview"
         content: "I offer three tiers for pet sitting."
-        company: "Walking"
-        date: "Negotiable" #price
+        company: "Pet Sitting"
+        date: "$150/day" #price
+      - job: "Drop In"
+        content: ""
+        company: "Tier 1"
+        date: "$50/day" #price 
+      - job: "Roomies"
+        content: "If you are heading out of town, or just need someone to drop by to feed your animals and/or clean up after them, this is your tier!"
+        company: "Tier 2"
+        date: "$100/day" #price
+      - job: "Besties"
+        content: "|-
+           If you are looking for someone to stay in your home, feed your animals, clean up after them, take them for walks, and give them a lot of extra love during the day, this is your tier! 
+        
+           This tier also includes dogs with extra needs like specific medicines or treatments, anxiety, or pups with training requirements."
+        company: "Tier 3"
+        date: "$150/day" #price
           
       - job: "Dog walking"
         content: "If your pup needs some extra exercise, and you're a little too busy, I am happy to help! My general price is $35/hr for one dog. If you have more than one dog, or your dog doesn't need a full hour, let's talk!"
