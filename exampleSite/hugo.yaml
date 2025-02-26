@@ -242,7 +242,7 @@ params:
     enable: true
     # title: "Custom Name"
     content: My inbox is always open. If you have any questions, feel free to send them my way!
-    btnName: Email me(:
+    btnName: Email me
     btnLink: mailto:wesley.w.whelan@gmail.com
     # formspree:
     #   enable: true # `contact.email` value will be ignored
