@@ -152,7 +152,7 @@ params:
     title: "Wes Whelan"
     subtitle: "A dog's best friend"
     content: "And your new favorite singer"#Singer/songwriter with a love for animals
-    image: /images/Alfred.jpg
+    image: /images/IMG_2737.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
