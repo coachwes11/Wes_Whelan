@@ -178,11 +178,18 @@ params:
     title: "About Me"
     image: /images/charlie hike.jpg
     content: |-
-      Hello, my name is Wes. I grew up on a horse farm surrounded by all kinds of animals. Naturally, I have a deep love for animals and sincerely enjoy helping out. I have been dog-walking and pet sitting in Los Angeles since 2024, as well as volunteering at a local shelter since 2023. I moved to Los Angeles to write and sing songs, but discovered that I missed the farm life surrounded by animals more than I could have ever anticipated.
+      Hello, my name is Wes. I am dog walker, pet sitter, singer, and soccer coach. I am originally from Eastern Kentucky where I was raised on a small Arabian horse farm.
+
+      After graduating with a degree in computer science, I decided to move to Los Angeles to pursue music. I am a singer/songwriter and contract vocalist with songs in many genres like RnB, Neo-soul, Electronic, House, Country, and Rock.
       
-      I am very good with animals and this led me to begin walking and sitting for local friends and families that I have come to know during my time in LA. I am always looking to meet new people and animals, so I decided to build this website to make it easier for people to reach me and learn more about me.
+      Soon after moving to LA, I realized how much I missed living on the farm and being surrounded by animals. From a young age, I was always working with animals. Whether that meant dog sitting, volunteering at the shelter, or just doing chores for my mom around the farm.
+
+      All this to say, I am very good with animals and this led me to begin walking and sitting for local friends and families that I have come to know during my time in LA. I have been dog-walking and pet sitting in Los Angeles since 2024, as well as volunteering at a local shelter since 2023. I am always looking to meet new people and animals, so I decided to build this website to make it easier for people to reach me and learn more about me.
+
+      In addition to my music and animal work, I am a youth development soccer coach. I began coaching high school soccer in 2021, and I transitioned to youth development upon moving to LA. I currently run an Afterschool program in Culver City, and am a Head Coach for Soccer Routes in Studio City. I also train and play with LA10, a local semi-professional team based at UCLA.
       
       Cheers, Wes
+      
     #skills:
       #enable: true
       #title: "What do I offer?"
@@ -196,7 +203,7 @@ params:
     title: "What do I offer?"
     items:
       - job: "Pet sitting"
-        content:"I offer three tiers for pet sitting." 
+        content: "I offer three tiers for pet sitting." 
         company: "General"
         date: "$100/day" #price
         info:
