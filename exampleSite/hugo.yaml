@@ -163,10 +163,11 @@ params:
     title: "About Me"
    # image: /images/
     content: |-
-      I moved to Los Angeles at the beginning of 2022 from Kentucky to write and sing songs. 
-      I grew up on a horse farm surrounded by all kinds of animals. I helped take care of the farm
-      animals and would occasionally pet sit for family friends in the area. I currently walk and pet sit
-      for several families in West LA, and I sincerely enjoy it.
+      Hello, my name is Wes. I grew up on a horse farm surrounded by all kinds of animals. Naturally,
+      I have a deep love for animals and sincerely enjoy helping out. I have been dog-walking and pet sitting
+      in Los Angeles since 2024, as well as volunteering at a local shelter since 2023. I moved to Los Angeles 
+      to write and sing songs, but discovered that I missed the farm life surrounded by animals more than I could
+      have ever anticipated.
     #skills:
       #enable: true
       #title: "What do I offer?"
