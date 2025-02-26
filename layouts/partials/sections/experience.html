@@ -92,7 +92,7 @@
                                 
                                 <div class="pb-1">
                                     <small>{{ .date }}</small>
-                                    {{ if .info.enable | default true }}
+                                    {{ if .info.enable | default false }}
                                     <span class="p-2">
                                         <span 
                                             style="cursor: pointer;" 
@@ -100,7 +100,7 @@
                                             data-bs-placement="top" 
                                             data-bs-original-title={{ .info.content | default (print "Worked as a " .job " at " .company ) }}
                                         > 
-                                            <i class="fas fa-info-circle fa-xs"></i>
+<!--                                             <i class="fas fa-info-circle fa-xs"></i> -->
                                         </span>
                                     </span>
                                     {{ end }}
