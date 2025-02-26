@@ -136,7 +136,7 @@ params:
     #intro: "Hi, my name is"
     title: "Wes Whelan"
     subtitle: "A dog's best friend"
-    content: "Singer/songwriter with a love for animals"
+    content: "And your new favorite singer"#Singer/songwriter with a love for animals
     #image: /images/
     bottomImage:
       enable: true
