@@ -202,26 +202,26 @@ params:
     enable: true
     title: "What do I offer?"
     items:
-      - job: "Pet sitting"
-        content: "I offer three tiers for pet sitting." 
-        company: "General"
-        date: "$100/day" #price
-        info:
-          enable: false
+      # - job: "Pet sitting"
+      #   content: "I offer three tiers for pet sitting." 
+      #   company: "General"
+      #   date: "$50-150/day" #price
+      #   info:
+      #     enable: false
         
       - job: "Tier 1: Drop-In"
         content: "If you're heading out of town, or just need someone to drop by to feed your animals and/or clean up after them, this is your tier!"
         company: "Tier 1"
         date: "50/day" #price
-        info:
-          enable: false
+        # info:
+        #   enable: false
           
       - job: "Tier 2: Roomies"
         content: "If you're looking for someone to stay in your home, feed your animals, clean up after them, and take them for walks, this is your tier!"
         company: "Tier 2"
         date: "100/day" #price
-        info:
-          enable: false
+        # info:
+        #   enable: false
           
       - job: "Tier 3: Besties"
         content: |-
@@ -231,22 +231,22 @@ params:
         
         company: "Tier 3"
         date: "150/day" #price
-        info:
-          enable: false
+        # info:
+        #   enable: false
           
       - job: "Dog walking"
         content: "If your pup needs some extra exercise, and you're a little too busy, I am happy to help! My general price is $35/hr for one dog. If you have more than one dog, or your dog doesn't need a full hour, let's talk!"
         company: "Walking"
         date: "Negotiable" #price
-        info:
-          enable: false
+        # info:
+        #   enable: false
           
       - job: "Event Singing"
         content: "Currently, I am only offering solo performances on acoustic guitar. I excel in small events and helping define the mood and ambience. Price dependent on set list, amounnt of time, and venue size. Check out my original and cover music below. Reach out to discuss."
         company: "Event Singing"
         date: "Negotiable" #price
-        info:
-          enable: false
+        # info:
+        #   enable: false
           
   # Education
   education:
