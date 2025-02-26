@@ -202,37 +202,41 @@ params:
     enable: true
     title: "What do I offer?"
     items:
-      - job: "Pet-Sitting"
-        content: "I offer three tiers for pet sitting. Side note: Tier 2 will generally include the extra love from Tier 3 anyways." 
-        company: "General"
-        date: "$50-150/day" #price
-        # info:
-        #   enable: false
+      # - job: "Pet-Sitting"
+      #   content: "I offer three tiers for pet sitting. Side note: Tier 2 will generally include the extra love from Tier 3 anyways." 
+      #   company: "General"
+      #   date: "$50-150/day" #price
+      #   # info:
+      #   #   enable: false
         
-      - job: "Drop-In"
-        content: "If you're heading out of town, or just need someone to drop by to feed your animals and/or clean up after them, this is your tier!"
-        company: "Tier 1"
-        date: "50/day" #price
-        # info:
-        #   enable: false
+      # - job: "Drop-In"
+      #   content: "If you're heading out of town, or just need someone to drop by to feed your animals and/or clean up after them, this is your tier!"
+      #   company: "Tier 1"
+      #   date: "50/day" #price
+      #   # info:
+      #   #   enable: false
           
-      - job: "Roomies"
-        content: "If you're looking for someone to stay in your home, feed your animals, clean up after them, and take them for walks, this is your tier!"
-        company: "Tier 2"
-        date: "100/day" #price
-        # info:
-        #   enable: false
+      # - job: "Roomies"
+      #   content: "If you're looking for someone to stay in your home, feed your animals, clean up after them, and take them for walks, this is your tier!"
+      #   company: "Tier 2"
+      #   date: "100/day" #price
+      #   # info:
+      #   #   enable: false
           
-      - job: "Besties"
-        content: |-
-          If you are looking for someone to stay in your home, feed your animals, clean up after them, take them for walks, and give them a lot of extra love during the day, this is your tier! 
+      # - job: "Besties"
+      #   content: |-
+      #     If you are looking for someone to stay in your home, feed your animals, clean up after them, take them for walks, and give them a lot of extra love during the day, this is your tier! 
         
-          This tier also includes dogs with extra needs like specific medicines or treatments, anxiety, or pups with training requirements.
+      #     This tier also includes dogs with extra needs like specific medicines or treatments, anxiety, or pups with training requirements.
         
-        company: "Tier 3"
-        date: "150/day" #price
-        # info:
-        #   enable: false
+      #   company: "Tier 3"
+      #   date: "150/day" #price
+      #   # info:
+      #   #   enable: false
+      - job: "Dog sitting"
+        content: "I offer three tiers for pet sitting."
+        company: "Walking"
+        date: "Negotiable" #price
           
       - job: "Dog walking"
         content: "If your pup needs some extra exercise, and you're a little too busy, I am happy to help! My general price is $35/hr for one dog. If you have more than one dog, or your dog doesn't need a full hour, let's talk!"
@@ -242,7 +246,7 @@ params:
         #   enable: false
           
       - job: "Event Singing"
-        content: "Currently, I am only offering solo performances on acoustic guitar. I excel in small events and helping define the mood and ambience. Price dependent on set list, amount of time, and venue size. Check out my original and cover music below. Reach out to discuss."
+        content: "Currently, I am offering solo performances on acoustic guitar. I excel in small events and helping define the mood and ambience. Price dependent on set list, amount of time, and venue size. Check out my original and cover music below. Reach out to discuss."
         company: "Event Singing"
         date: "Negotiable" #price
         # info:
@@ -292,7 +296,7 @@ params:
          # - "Javascript"
         links:
           - icon: fab fa-spotify
-            url: 
+            url: "https://open.spotify.com/artist/4ysdyxoSzWDnnhw91K9iDN?si=v28M1e5lTHS8p0f-3LRUsg"
 
   #Contact
   contact:
