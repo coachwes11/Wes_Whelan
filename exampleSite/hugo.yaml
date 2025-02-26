@@ -166,13 +166,13 @@ params:
       I moved to Los Angeles at the beginning of 2022 from Kentucky. 
       I grew up on a horse farm surrounded by all kinds of animals. Naturally, I have been an animal lover my whole life, 
       and I began watching and walking dogs consistently in Los Angeles in 2024.
-    skills:
-      enable: true
-      title: "What do I offer?"
-      items:
-        - "In-home pet sittinng"
-        - "Regular walks"
-        - "Drop-in visits and walks"
+    #skills:
+      #enable: true
+      #title: "What do I offer?"
+      #items:
+        #- "In-home pet sittinng"
+        #- "Regular walks"
+        #- "Drop-in visits and walks"
   # Experience
   experience:
     enable: true
