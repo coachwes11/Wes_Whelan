@@ -202,34 +202,34 @@ params:
     enable: true
     title: "What do I offer?"
     items:
-      # - job: "Pet sitting"
-      #   content: "I offer three tiers for pet sitting." 
-      #   company: "General"
-      #   date: "$50-150/day" #price
-      #   info:
-      #     enable: false
+      - job: "Pet-Sitting"
+        content: "I offer three tiers for pet sitting. Side note: Tier 2 will generally include the extra love from Tier 3 anyways." 
+        company: "General"
+        date: "$50-150/day" #price
+        # info:
+        #   enable: false
         
-      - job: "Tier 1: Drop-In"
+      - job: "Drop-In"
         content: "If you're heading out of town, or just need someone to drop by to feed your animals and/or clean up after them, this is your tier!"
-        company: "Tier-1"
+        company: "Tier 1"
         date: "50/day" #price
         # info:
         #   enable: false
           
-      - job: "Tier 2: Roomies"
+      - job: "Roomies"
         content: "If you're looking for someone to stay in your home, feed your animals, clean up after them, and take them for walks, this is your tier!"
-        company: "Tier-2"
+        company: "Tier 2"
         date: "100/day" #price
         # info:
         #   enable: false
           
-      - job: "Tier 3: Besties"
+      - job: "Besties"
         content: |-
           If you are looking for someone to stay in your home, feed your animals, clean up after them, take them for walks, and give them a lot of extra love during the day, this is your tier! 
         
           This tier also includes dogs with extra needs like specific medicines or treatments, anxiety, or pups with training requirements.
         
-        company: "Tier-3"
+        company: "Tier 3"
         date: "150/day" #price
         # info:
         #   enable: false
