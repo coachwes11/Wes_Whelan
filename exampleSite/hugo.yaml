@@ -144,7 +144,7 @@ params:
     button:
       enable: true
       name: "Schedule a Chat"
-      url: "#"
+      url: "https://calendly.com/wesley-w-whelan"
       download: false
       newPage: true
     socialLinks:
