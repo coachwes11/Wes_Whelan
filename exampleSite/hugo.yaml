@@ -178,16 +178,9 @@ params:
     title: "About Me"
     image: /images/charlie hike.jpg
     content: |-
-      Hello, my name is Wes. I grew up on a horse farm surrounded by all kinds of animals. Naturally,
-      I have a deep love for animals and sincerely enjoy helping out. I have been dog-walking and pet sitting
-      in Los Angeles since 2024, as well as volunteering at a local shelter since 2023. I moved to Los Angeles 
-      to write and sing songs, but discovered that I missed the farm life surrounded by animals more than I could
-      have ever anticipated.
-      |-
-      I am very good with animals and this led me to begin walking and sitting for local friends and families that
-      I have come to know during my time in LA. I am always looking to meet new people and animals, so I decided to
-      build this website to make it easier for people to reach me and learn more about me. 
-      |-
+      Hello, my name is Wes. I grew up on a horse farm surrounded by all kinds of animals. Naturally, I have a deep love for animals and sincerely enjoy helping out. I have been dog-walking and pet sittingin Los Angeles since 2024, as well as volunteering at a local shelter since 2023. I moved to Los Angeles to write and sing songs, but discovered that I missed the farm life surrounded by animals more than I could have ever anticipated.
+      
+      I am very good with animals and this led me to begin walking and sitting for local friends and families that I have come to know during my time in LA. I am always looking to meet new people and animals, so I decided to build this website to make it easier for people to reach me and learn more about me.
       Cheers, Wes
     #skills:
       #enable: true
@@ -201,44 +194,31 @@ params:
     enable: true
     title: "What do I offer?"
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
-        companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
-        featuredLink:
-          enable: true
-          name: "View the project"
-          url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
-  # experience:
-  #   enable: true
-  #   title: "What do I offer?"
-  #   items:
-  #     - job: "Pet sitting"
-  #       content: "Tiers listed below:"
+      - job: "Pet sitting"
+        content: "Tiers listed below:"
         
-  #     - job: "Tier 1: Drop-In"
-  #       content: "If you're heading out of town, or just need someone to drop by to feed your animals and/or clean up after them, this is your tier!"
+      - job: "Tier 1: Drop-In"
+        content: "If you're heading out of town, or just need someone to drop by to feed your animals and/or clean up after them, this is your tier!"
         
-  #     - job: "Tier 2: Roomies"
-  #       content: "If you're looking for someone to stay in your home, feed your animals, clean up after them, and take them for walks, this is your tier!"
+      - job: "Tier 2: Roomies"
+        content: "If you're looking for someone to stay in your home, feed your animals, clean up after them, and take them for walks, this is your tier!"
         
-  #     - job: "Tier 3: Besties"
-  #       content: "If you're looking for someone to stay in your home, feed your animals, clean up after them, take them for walks, and give them a lot of love during the day, this is your tier!"
+      - job: "Tier 3: Besties"
+        content: "If you're looking for someone to stay in your home, feed your animals, clean up after them, take them for walks, and give them a lot of love during the day, this is your tier!"
      
-  #     - job: "Dog walking"
-  #       content: "If your pup needs some extra exercise, and you're a little too busy, I am happy to help! My general price is $35/hr for one dog. If you have more than one dog, or your dog doesn't need a full hour, let's talk!"
+      - job: "Dog walking"
+        content: "If your pup needs some extra exercise, and you're a little too busy, I am happy to help! My general price is $35/hr for one dog. If you have more than one dog, or your dog doesn't need a full hour, let's talk!"
       
-  #     - job: "Event singing"
-  #       content:"Currently, I am only offering solo performances on acoustic guitar. I excel in small events and helping define the mood and ambience. Price dependent on set list, amounnt of time, and venue size. Check out my original and cover music below."
+      - job: "Event singing"
+        content:"Currently, I am only offering solo performances on acoustic guitar. I excel in small events and helping define the mood and ambience. Price dependent on set list, amounnt of time, and venue size. Check out my original and cover music below."
         
-  #       #company: "Facebook"
-  #       #companyUrl: "https://example.com"
-  #       #date: ""
-  #       #featuredLink:
-  #         #enable: true
-  #         #name: "View the project"
-  #         #url: "https://example.com"
+        #company: "Facebook"
+        #companyUrl: "https://example.com"
+        #date: ""
+        #featuredLink:
+          #enable: true
+          #name: "View the project"
+          #url: "https://example.com"
       
   # Education
   education:
