@@ -242,7 +242,7 @@ params:
         #   enable: false
           
       - job: "Event Singing"
-        content: "Currently, I am only offering solo performances on acoustic guitar. I excel in small events and helping define the mood and ambience. Price dependent on set list, amounnt of time, and venue size. Check out my original and cover music below. Reach out to discuss."
+        content: "Currently, I am only offering solo performances on acoustic guitar. I excel in small events and helping define the mood and ambience. Price dependent on set list, amount of time, and venue size. Check out my original and cover music below. Reach out to discuss."
         company: "Event Singing"
         date: "Negotiable" #price
         # info:
