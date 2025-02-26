@@ -153,9 +153,9 @@ params:
           url: https://instagram.com/weswhelanmusic
         - icon: fab fa-youtube
           url: https://youtube.com/weswhelan
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+      #customIcons:
+        #- icon: /fav.png
+          #url: "https://example.com"
 
   # About
   about:
