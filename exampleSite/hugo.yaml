@@ -224,7 +224,7 @@ params:
           enable: false
           
       - job: "Tier 3: Besties"
-        content: | -
+        content: |-
         If you are looking for someone to stay in your home, feed your animals, clean up after them, take them for walks, and give them a lot of extra love during the day, this is your tier! 
         
         This tier also includes dogs with extra needs like specific medicines or treatments, anxiety, or pups with training requirements.
