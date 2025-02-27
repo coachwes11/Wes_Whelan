@@ -264,6 +264,14 @@ params:
             url: "https://open.spotify.com/artist/4ysdyxoSzWDnnhw91K9iDN?si=v28M1e5lTHS8p0f-3LRUsg"
           - icon: fab fa-youtube
             url: "https://www.youtube.com/weswhelan"
+
+      - job: "Private Soccer Lessons"
+        content: "Lessons for players below 12 are $75/hr and above 12 is $100/hr. These prices are negotiable based on skill, timeframe, and number of lessons."
+        company: "Event Singing"
+        price: "Negotiable" #price
+        links:
+          - icon: fab fa-spotiy
+            url: "https://www.instagram.com/soccerwes"
         # info:
         #   enable: false
         # featuredLink:
