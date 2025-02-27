@@ -53,7 +53,7 @@
                                 <a href="{{ .companyUrl }}" target="_blank">{{ .company }}</a>
                                 <div class="pb-1">
                                     <small>{{ .price }}</small>
-                                    {{ if .info.enable | default false }}
+                                    {{ if .info.enable | default true }}
                                     <span class="p-2">
                                         <span 
                                             style="cursor: pointer;" 
@@ -67,7 +67,7 @@
                                     {{ end }}
                                 </div>
 
-                                {{ if .featuredLink.enable | default false }}
+                                {{ if .featuredLink.enable | default true }}
                                 <div class="py-2 featuredLink">
                                     <a class="p-2 px-4 btn btn-outline-primary btn-sm" href={{ .featuredLink.url | default "#" }} target="_blank">
                                         {{ .featuredLink.name | default "Featured Link" }} 
@@ -92,7 +92,7 @@
                                 
                                 <div class="pb-1">
                                     <small>{{ .price }}</small>
-                                    {{ if .info.enable | default false }}
+                                    {{ if .info.enable | default true }}
                                     <span class="p-2">
                                         <span 
                                             style="cursor: pointer;" 
@@ -106,7 +106,7 @@
                                     {{ end }}
                                 </div>
                                 
-                                {{ if .featuredLink.enable | default false }}
+                                {{ if .featuredLink.enable | default true }}
                                 <div class="py-2 featuredLink">
                                     <a class="p-2 px-4 btn btn-outline-primary btn-sm" href={{ .featuredLink.url | default "#" }} target="_blank">
                                         {{ .featuredLink.name | default "Featured Link" }} 
