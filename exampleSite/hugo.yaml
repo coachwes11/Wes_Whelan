@@ -205,18 +205,18 @@ params:
       - job: "Pet-Sitting"
         content: "I offer three tiers for pet sitting. Side note: Tier 2 will generally include the extra love from Tier 3 anyways." 
         company: "General"
-        price: ${{ printf "%.f" 100 }}/day #price 
+        price: 100 
     
         
       - job: "Drop In"
         content: "If you are heading out of town, or just need someone to drop by to feed your animals and clean up after them, this is your tier!"
         company: "Tier 1"
-        price: 50 #price 
+        price: 50 
         
       - job: "Roomies"
         content: "If you are looking for someone to stay in your home, feed your animals, clean up after them, and take them for walks, this is your tier!"
         company: "Tier 2"
-        price: 100 #price
+        price: 100 
         
       - job: "Besties"
         content: "
@@ -224,7 +224,7 @@ params:
         
            This tier also includes dogs with extra needs like specific medicines or treatments, anxiety, or pups with training requirements."
         company: "Tier 3"
-        price: 150 #price
+        price: 150 
           
       - job: "Dog walking"
         content: "If your pup needs some extra exercise, and you're a little too busy, I am happy to help! My general price is $35/hr for one dog. If you have more than one dog, or your dog doesn't need a full hour, let's talk!"
