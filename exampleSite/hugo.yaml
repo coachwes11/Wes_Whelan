@@ -205,21 +205,21 @@ params:
       # - job: "Pet-Sitting"
       #   content: "I offer three tiers for pet sitting. Side note: Tier 2 will generally include the extra love from Tier 3 anyways." 
       #   company: "General"
-      #   date: "$50-150/day" #price
+      #   price: "$50-150/day" #price
       #   # info:
       #   #   enable: false
         
       # - job: "Drop-In"
       #   content: "If you're heading out of town, or just need someone to drop by to feed your animals and/or clean up after them, this is your tier!"
       #   company: "Tier 1"
-      #   date: "50/day" #price
+      #   price: "50/day" #price
       #   # info:
       #   #   enable: false
           
       # - job: "Roomies"
       #   content: "If you're looking for someone to stay in your home, feed your animals, clean up after them, and take them for walks, this is your tier!"
       #   company: "Tier 2"
-      #   date: "100/day" #price
+      #   price: "100/day" #price
       #   # info:
       #   #   enable: false
           
@@ -230,23 +230,23 @@ params:
       #     This tier also includes dogs with extra needs like specific medicines or treatments, anxiety, or pups with training requirements.
         
       #   company: "Tier 3"
-      #   date: "150/day" #price
+      #   price: "150/day" #price
       #   # info:
       #   #   enable: false
       # - job: "Overview"
       #   content: "I offer three tiers for pet sitting."
       #   company: "Pet Sitting"
-      #   date: "$150/day" #price
+      #   price: "$150/day" #price
         
       - job: "Drop In"
         content: "If you are heading out of town, or just need someone to drop by to feed your animals and clean up after them, this is your tier!"
         company: "Tier 1"
-        date: "$50/day" #price 
+        price: "$50/day" #price 
         
       - job: "Roomies"
         content: "If you are looking for someone to stay in your home, feed your animals, clean up after them, and take them for walks, this is your tier!"
         company: "Tier 2"
-        date: "$100/day" #price
+        price: "$100/day" #price
         
       - job: "Besties"
         content: "|-
@@ -254,19 +254,19 @@ params:
         
            This tier also includes dogs with extra needs like specific medicines or treatments, anxiety, or pups with training requirements."
         company: "Tier 3"
-        date: "$150/day" #price
+        price: "$150/day" #price
           
       - job: "Dog walking"
         content: "If your pup needs some extra exercise, and you're a little too busy, I am happy to help! My general price is $35/hr for one dog. If you have more than one dog, or your dog doesn't need a full hour, let's talk!"
         company: "Walking"
-        date: "Negotiable" #price
+        price: "Negotiable" #price
         # info:
         #   enable: false
           
       - job: "Event Singing"
         content: "Currently, I am offering solo performances on acoustic guitar. I excel in small events and helping define the mood and ambience. Price dependent on set list, amount of time, and venue size. Check out my original and cover music below. Reach out to discuss."
         company: "Event Singing"
-        date: "Negotiable" #price
+        price: "Negotiable" #price
         # info:
         #   enable: false
           
