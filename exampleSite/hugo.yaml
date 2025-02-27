@@ -233,18 +233,21 @@ params:
       #   date: "150/day" #price
       #   # info:
       #   #   enable: false
-      - job: "Overview"
-        content: "I offer three tiers for pet sitting."
-        company: "Pet Sitting"
-        date: "$150/day" #price
+      # - job: "Overview"
+      #   content: "I offer three tiers for pet sitting."
+      #   company: "Pet Sitting"
+      #   date: "$150/day" #price
+        
       - job: "Drop In"
-        content: ""
+        content: "If you are heading out of town, or just need someone to drop by to feed your animals and clean up after them, this is your tier!"
         company: "Tier 1"
         date: "$50/day" #price 
+        
       - job: "Roomies"
-        content: "If you are heading out of town, or just need someone to drop by to feed your animals and/or clean up after them, this is your tier!"
+        content: "If you are looking for someone to stay in your home, feed your animals, clean up after them, and take them for walks, this is your tier!"
         company: "Tier 2"
         date: "$100/day" #price
+        
       - job: "Besties"
         content: "|-
            If you are looking for someone to stay in your home, feed your animals, clean up after them, take them for walks, and give them a lot of extra love during the day, this is your tier! 
