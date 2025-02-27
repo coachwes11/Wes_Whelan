@@ -14,9 +14,9 @@
                                 aria-selected="true" 
                                 role="tab" 
                                 data-bs-toggle="pill"
-                                id='{{ replace .company " " "-" }}-{{ replace .date " " "-" }}-tab'
-                                data-bs-target='#pills-{{ replace .company " " "-" }}-{{ replace .date " " "-" }}'
-                                aria-controls='{{ replace .company " " "-" }}-{{ replace .date " " "-" }}' 
+                                id='{{ replace .company " " "-" }}-{{ replace .price " " "-" }}-tab'
+                                data-bs-target='#pills-{{ replace .company " " "-" }}-{{ replace .price " " "-" }}'
+                                aria-controls='{{ replace .company " " "-" }}-{{ replace .price " " "-" }}' 
                             >
                                 {{ .company }}
                             </div>
@@ -28,9 +28,9 @@
                                 aria-selected="true" 
                                 role="tab" 
                                 data-bs-toggle="pill"
-                                id='{{ replace .company " " "-" }}-{{ replace .date " " "-" }}-tab'
-                                data-bs-target='#pills-{{ replace .company " " "-" }}-{{ replace .date " " "-" }}' 
-                                aria-controls='{{ replace .company " " "-" }}-{{ replace .date " " "-" }}'
+                                id='{{ replace .company " " "-" }}-{{ replace .price " " "-" }}-tab'
+                                data-bs-target='#pills-{{ replace .company " " "-" }}-{{ replace .price " " "-" }}' 
+                                aria-controls='{{ replace .company " " "-" }}-{{ replace .price " " "-" }}'
                             >
                                 {{ .company }}
                             </div>
@@ -44,15 +44,15 @@
                         <div 
                             class="tab-pane fade show active bg-transparent" 
                             role="tabpanel"
-                            id='pills-{{ replace .company " " "-" }}-{{ replace .date " " "-" }}'
-                            aria-labelledby='pills-{{ replace .company " " "-" }}-{{ replace .date " " "-" }}-tab'
+                            id='pills-{{ replace .company " " "-" }}-{{ replace .price " " "-" }}'
+                            aria-labelledby='pills-{{ replace .company " " "-" }}-{{ replace .price " " "-" }}-tab'
                         >
                             <div>
                                 <span class="h4">{{ .job }}</span>
                                 <small>-</small>
                                 <a href="{{ .companyUrl }}" target="_blank">{{ .company }}</a>
                                 <div class="pb-1">
-                                    <small>{{ .date }}</small>
+                                    <small>{{ .price }}</small>
                                     {{ if .info.enable | default true }}
                                     <span class="p-2">
                                         <span 
@@ -82,8 +82,8 @@
                         <div 
                             class="tab-pane fade bg-transparent" 
                             role="tabpanel"
-                            id='pills-{{ replace .company " " "-" }}-{{ replace .date " " "-" }}'
-                            aria-labelledby='pills-{{ replace .company " " "-" }}-{{ replace .date " " "-" }}-tab'
+                            id='pills-{{ replace .company " " "-" }}-{{ replace .price " " "-" }}'
+                            aria-labelledby='pills-{{ replace .company " " "-" }}-{{ replace .price " " "-" }}-tab'
                         >
                             <div>
                                 <span class="h4">{{ .job }}</span>
@@ -91,7 +91,7 @@
                                 <a href="{{ .companyUrl }}" target="_blank">{{ .company }}</a>
                                 
                                 <div class="pb-1">
-                                    <small>{{ .date }}</small>
+                                    <small>{{ .price }}</small>
                                     {{ if .info.enable | default false }}
                                     <span class="p-2">
                                         <span 
