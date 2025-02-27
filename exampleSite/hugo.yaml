@@ -259,6 +259,11 @@ params:
         content: "Currently, I am offering solo performances on acoustic guitar. I excel in small events and helping define the mood and ambience. Price dependent on set list, amount of time, and venue size. Check out my original and cover music below. Reach out to discuss."
         company: "Event Singing"
         price: "Negotiable" #price
+        links:
+          - icon: fab fa-spotify
+            url: "https://open.spotify.com/artist/4ysdyxoSzWDnnhw91K9iDN?si=v28M1e5lTHS8p0f-3LRUsg"
+          - icon: fab fa-youtube
+            url: "https://www.youtube.com/weswhelan"
         # info:
         #   enable: false
         # featuredLink:
