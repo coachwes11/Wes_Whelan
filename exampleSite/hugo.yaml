@@ -202,41 +202,11 @@ params:
     enable: true
     title: "What do I offer?"
     items:
-      # - job: "Pet-Sitting"
-      #   content: "I offer three tiers for pet sitting. Side note: Tier 2 will generally include the extra love from Tier 3 anyways." 
-      #   company: "General"
-      #   price: "$50-150/day" #price
-      #   # info:
-      #   #   enable: false
-        
-      # - job: "Drop-In"
-      #   content: "If you're heading out of town, or just need someone to drop by to feed your animals and/or clean up after them, this is your tier!"
-      #   company: "Tier 1"
-      #   price: "50/day" #price
-      #   # info:
-      #   #   enable: false
-          
-      # - job: "Roomies"
-      #   content: "If you're looking for someone to stay in your home, feed your animals, clean up after them, and take them for walks, this is your tier!"
-      #   company: "Tier 2"
-      #   price: "100/day" #price
-      #   # info:
-      #   #   enable: false
-          
-      # - job: "Besties"
-      #   content: |-
-      #     If you are looking for someone to stay in your home, feed your animals, clean up after them, take them for walks, and give them a lot of extra love during the day, this is your tier! 
-        
-      #     This tier also includes dogs with extra needs like specific medicines or treatments, anxiety, or pups with training requirements.
-        
-      #   company: "Tier 3"
-      #   price: "150/day" #price
-      #   # info:
-      #   #   enable: false
-      # - job: "Overview"
-      #   content: "I offer three tiers for pet sitting."
-      #   company: "Pet Sitting"
-      #   price: "$15" #price
+      - job: "Pet-Sitting"
+        content: "I offer three tiers for pet sitting. Side note: Tier 2 will generally include the extra love from Tier 3 anyways." 
+        company: "General"
+        price: "100" #price 
+    
         
       - job: "Drop In"
         content: "If you are heading out of town, or just need someone to drop by to feed your animals and clean up after them, this is your tier!"
