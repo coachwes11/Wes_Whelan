@@ -205,7 +205,7 @@ params:
       - job: "Pet-Sitting"
         content: "I offer three tiers for pet sitting. Side note: Tier 2 will generally include the extra love from Tier 3 anyways." 
         company: "General"
-        price: 100 #price 
+        price: ${{ printf "%.f" 100 }}/day #price 
     
         
       - job: "Drop In"
