@@ -211,6 +211,7 @@ params:
         featuredLink:
           enable: true
           url: "https://calendly.com/wesley-w-whelan"
+          name: "Schedule a Chat"
     
         
       - job: "Drop In"
@@ -220,6 +221,7 @@ params:
         featuredLink:
           enable: true
           url: "https://calendly.com/wesley-w-whelan"
+          name: "Schedule a Chat"
         
       - job: "Roomies"
         content: "If you are looking for someone to stay in your home, feed your animals, clean up after them, and take them for walks, this is your tier!"
@@ -228,6 +230,7 @@ params:
         featuredLink:
           enable: true
           url: "https://calendly.com/wesley-w-whelan"
+          name: "Schedule a Chat"
         
       - job: "Besties"
         content: "
@@ -239,6 +242,7 @@ params:
         featuredLink:
           enable: true
           url: "https://calendly.com/wesley-w-whelan"
+          name: "Schedule a Chat"
           
       - job: "Dog walking"
         content: "If your pup needs some extra exercise, and you're a little too busy, I am happy to help! My general price is $35/hr for one dog. If you have more than one dog, or your dog doesn't need a full hour, let's talk!"
@@ -249,6 +253,7 @@ params:
         featuredLink:
           enable: true
           url: "https://calendly.com/wesley-w-whelan"
+          name: "Schedule a Chat"
           
       - job: "Event Singing"
         content: "Currently, I am offering solo performances on acoustic guitar. I excel in small events and helping define the mood and ambience. Price dependent on set list, amount of time, and venue size. Check out my original and cover music below. Reach out to discuss."
@@ -259,6 +264,7 @@ params:
         featuredLink:
           enable: true
           url: "https://calendly.com/wesley-w-whelan"
+          name: "Schedule a Chat"
           
   # Education
   education:
