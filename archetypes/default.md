@@ -1,7 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-price: ${{ printf "%.2f" .Price }}/day
+date: {{ .Date }} 
+price: {{ .Price }}<--Price value /day
 draft: true
 author:
 tags:
